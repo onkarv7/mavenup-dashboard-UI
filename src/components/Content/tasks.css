@@ -1,0 +1,147 @@
+
+.tasks-header {
+    position: absolute;
+    width: 209.31px;
+    height: 17.94px;
+    left: 732px;
+    top: 347px;
+
+    font-family: "Manrope";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 30px;
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.2px;
+  
+    color: #212121;
+  }
+  
+  .task-container {
+    position: absolute;
+    width: 330px;
+    height: 579px;
+    left: 732px;
+    top: 387px;  
+    mix-blend-mode: normal;
+    border: 1px solid #e8e8e8;
+    border-radius: 6.79872px;
+  }
+  
+  .task-container1 {
+    position: absolute;
+    width: 209px;
+    height: 31px;
+    left: 20px;
+    top: 20px;
+    font-size: 14px !important;
+    line-height: 160% !important;
+    letter-spacing: 0.1px !important;
+    text-align: left !important;
+  }
+  
+  .task-container2,
+  .task-container6 {
+    position: absolute;
+    width: 148px;
+    height: 51px;
+    left: 39px;
+    top: 16px;
+    line-height: 140% !important; 
+    text-align: left !important;
+  }
+  .td{
+    font-family: "DM Sans";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 16px;
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.169968px;
+      color: #212121;
+  }
+  .task-container3,
+  .task-container4,
+  .task-container5 {
+    position: absolute;
+    width: 230px;
+    height: 16px;
+    left: 39px;
+    top: 16px;
+  }
+  
+  .task-container-div2 {
+      position: absolute;
+      width: 290px;
+      height: 83px;
+      left: 20px;
+      top: 63px;
+      background: #f9f9f9;
+      border-radius: 6px;
+      border-radius: 6px;
+    }
+    .task-container-div3 {
+      position: absolute;
+      width: 290px;
+      height: 49px;
+      left: 20px;
+      top: 158px;
+      background: #ffffff;
+      box-shadow: 0px 0px 30px rgba(0, 0, 0, 0.08);
+      border-radius: 6px;
+    }
+    .task-container-div4 {
+      position: absolute;
+      width: 290px;
+      height: 49px;
+      left: 20px;
+      top: 217px;
+      background: #f9f9f9;
+      border-radius: 6px;
+    }
+    .task-container-div5 {
+      position: absolute;
+      width: 290px;
+      height: 49px;
+      left: 20px;
+      top: 276px;
+      background: #f9f9f9;
+      border-radius: 6px;
+    }
+    .task-container-div6 {
+      position: absolute;
+      width: 290px;
+      height: 83px;
+      left: 20px;
+      top: 335px;
+      background: #f9f9f9;
+      border-radius: 6px;
+    }
+    .drag-icon{
+     position: absolute;
+     top: 28px;
+     left: 290px;
+    }
+
+    .Designr{
+      margin-left: -40px;
+      margin-right: 8px;
+    }
+
+    .Designr2{
+      margin-right: 8px;
+    }
+
+    .Designr3{
+     position: absolute;
+     /* top: 4px; */
+     left: 180px ;
+    }
+
+    .Designr4{
+      position: absolute;
+      /* top: 4px; */
+      left: 225px ;
+    }

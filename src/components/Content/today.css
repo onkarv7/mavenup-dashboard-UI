@@ -1,0 +1,616 @@
+/* Today's Shedule */
+
+.shedule {
+    position: absolute;
+    width: 209.31px;
+    height: 17.94px;
+    left: 142px;
+    top: 347px;
+  
+    /* Loopin/Desktop/H3 Semibold */
+    font-family: "Manrope";
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 25px;
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.2px;
+  
+    color: #212121;
+  }
+  
+  .time1 {
+    position: absolute;
+    width: 81px;
+    height: 18px;
+    left: 162px;
+    top: 402px;
+  
+    /* Loopin/Desktop/Subtitle2 Regular */
+    font-family: "DM Sans";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.2px;
+  
+    /* Loopin/neutrals/colour.neutral.one */
+    color: #212121;
+  }
+  .time2 {
+    position: absolute;
+    width: 81px;
+    height: 18px;
+    left: 162px;
+    top: 458px;
+  
+    /* Loopin/Desktop/Subtitle2 Regular */
+    font-family: "DM Sans";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.2px;
+  
+    /* Loopin/primary/colour.primary.two */
+  }
+  .time3 {
+    position: absolute;
+    width: 81px;
+    height: 18px;
+    left: 20px;
+    top: 18px;
+  
+    /* Loopin/Desktop/Subtitle2 Regular */
+    font-family: "DM Sans";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.2px;
+  
+    /* Loopin/neutrals/colour.neutral.one */
+    color: #212121;
+  }
+  .time4 {
+    position: absolute;
+    width: 81px;
+    height: 18px;
+    left: 162px;
+    top: 573px;
+  
+    /* Loopin/Desktop/Subtitle2 Regular */
+    font-family: "DM Sans";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.2px;
+  
+    /* Loopin/neutrals/colour.neutral.one */
+    color: #212121;
+  }
+  .time5 {
+    position: absolute;
+    width: 81px;
+    height: 18px;
+    left: 162px;
+    top: 627px;
+  
+    /* Loopin/Desktop/Subtitle2 Regular */
+    font-family: "DM Sans";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.2px;
+  
+    /* Loopin/neutrals/colour.neutral.one */
+    color: #212121;
+  }
+  .time6 {
+    position: absolute;
+    width: 81px;
+    height: 18px;
+    left: 162px;
+    top: 683px;
+  
+    /* Loopin/Desktop/Subtitle2 Regular */
+    font-family: "DM Sans";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.2px;
+  
+    /* Loopin/neutrals/colour.neutral.one */
+    color: #212121;
+  }
+  .time7 {
+    position: absolute;
+    width: 81px;
+    height: 18px;
+    left: 162px;
+    top: 737px;
+  
+    /* Loopin/Desktop/Subtitle2 Regular */
+    font-family: "DM Sans";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.2px;
+  
+    /* Loopin/neutrals/colour.neutral.one */
+    color: #212121;
+  }
+  .time8 {
+    position: absolute;
+    width: 81px;
+    height: 18px;
+    left: 162px;
+    top: 791px;
+  
+    /* Loopin/Desktop/Subtitle2 Regular */
+    font-family: "DM Sans";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.2px;
+  
+    /* Loopin/neutrals/colour.neutral.one */
+    color: #212121;
+  }
+  .time9 {
+      position: absolute;
+      width: 81px;
+      height: 18px;
+      left: 162px;
+      top: 845px;
+      
+      /* Loopin/Desktop/Subtitle2 Regular */
+      font-family: 'DM Sans';
+      font-style: normal;
+      font-weight: 400;
+      font-size: 14px;
+      line-height: 18px;
+      display: flex;
+      align-items: center;
+      letter-spacing: 0.2px;
+      
+      /* Loopin/neutrals/colour.neutral.one */
+      color: #212121;
+  }
+  .time10 {
+      position: absolute;
+      width: 81px;
+      height: 18px;
+      left: 162px;
+      top: 897px;
+      
+      /* Loopin/Desktop/Subtitle2 Regular */
+      font-family: 'DM Sans';
+      font-style: normal;
+      font-weight: 400;
+      font-size: 14px;
+      line-height: 18px;
+      display: flex;
+      align-items: center;
+      letter-spacing: 0.2px;
+      
+      /* Loopin/neutrals/colour.neutral.one */
+      color: #212121;
+      
+  }
+  
+  .text1 {
+    position: absolute;
+    width: 86px;
+    height: 18px;
+    left: 280px;
+    top: 402px;
+  
+    /* Loopin/Desktop/Subtitle Medium */
+    font-family: "DM Sans";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 18px;
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.1px;
+  
+    color: #212121;
+  }
+  .text2 {
+    position: absolute;
+    width: 189px;
+    height: 18px;
+    left: 280px;
+    top: 458px;
+  
+    /* Loopin/Desktop/Subtitle Medium */
+    font-family: "DM Sans";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 18px;
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.1px;
+  
+    color: #212121;
+  }
+  .text3 {
+    position: absolute;
+    width: 188px;
+    height: 18px;
+    left: 138px;
+    top: 17px;
+  
+    /* Loopin/Desktop/Subtitle Medium */
+    font-family: "DM Sans";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 18px;
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.1px;
+  
+    /* Loopin/primary/colour.primary.two */
+    color: #2962ff;
+  }
+  .text4 {
+    position: absolute;
+    width: 86px;
+    height: 18px;
+    left: 280px;
+    top: 573px;
+  
+    /* Loopin/Desktop/Subtitle Medium */
+    font-family: "DM Sans";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 18px;
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.1px;
+  
+    color: #212121;
+  }
+  .text5 {
+    position: absolute;
+    width: 86px;
+    height: 18px;
+    left: 280px;
+    top: 627px;
+  
+    /* Loopin/Desktop/Subtitle Medium */
+    font-family: "DM Sans";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 18px;
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.1px;
+  
+    color: #212121;
+  }
+  .text6 {
+    position: absolute;
+    width: 86px;
+    height: 18px;
+    left: 280px;
+    top: 683px;
+  
+    /* Loopin/Desktop/Subtitle Medium */
+    font-family: "DM Sans";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 18px;
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.1px;
+  
+    color: #212121;
+  }
+  .text7 {
+    position: absolute;
+    width: 86px;
+    height: 18px;
+    left: 280px;
+    top: 737px;
+  
+    /* Loopin/Desktop/Subtitle Medium */
+    font-family: "DM Sans";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 18px;
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.1px;
+  
+    color: #212121;
+  }
+  .text8 {
+    position: absolute;
+    width: 86px;
+    height: 18px;
+    left: 280px;
+    top: 791px;
+  
+    /* Loopin/Desktop/Subtitle Medium */
+    font-family: "DM Sans";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 18px;
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.1px;
+  
+    color: #212121;
+  }
+  .text9 {
+    position: absolute;
+    width: 86px;
+    height: 18px;
+    left: 280px;
+    top: 845px;
+  
+    /* Loopin/Desktop/Subtitle Medium */
+    font-family: "DM Sans";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 18px;
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.1px;
+  
+    color: #212121;
+  }
+  .text10 {
+    position: absolute;
+    width: 86px;
+    height: 18px;
+    left: 280px;
+    top: 897px;
+  
+    /* Loopin/Desktop/Subtitle Medium */
+    font-family: "DM Sans";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 18px;
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.1px;
+  
+    color: #212121;
+  }
+  
+  .internal1-div {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 4px 8px;
+    gap: 10px;
+  
+    position: absolute;
+    width: 52px;
+    height: 21px;
+    left: 388px;
+    top: 400px;
+  
+    /* Loopin/secondary/colour.secondary.pink.two */
+    background: #f4e5f4;
+    border-radius: 4px;
+  }
+  
+  .internal1 {
+    width: 36px;
+    height: 13px;
+  
+    font-family: "DM Sans";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 10px;
+    line-height: 13px;
+    /* identical to box height */
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.2px;
+  
+    /* Loopin/secondary/colour.secondary.pink.one */
+    color: #b74bb5;
+  
+    /* Inside auto layout */
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+  }
+  
+  .alex {
+    position: absolute;
+    width: 566px;
+    height: 54px;
+    left: 142px;
+    top: 500px;
+  
+    /* Loopin/primary/colour.primary.four */
+    background: #e7e9ff;
+    border-radius: 8px;
+  }
+  
+  .internal2-div {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 4px 8px;
+    gap: 10px;
+  
+    position: absolute;
+    width: 52px;
+    height: 21px;
+    left: 491px;
+    top: 456px;
+  
+    background: #e5f9ec;
+    border-radius: 4px;
+  }
+  
+  .internal2 {
+    width: 36px;
+    height: 13px;
+  
+    font-family: "DM Sans";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 10px;
+    line-height: 13px;
+    /* identical to box height */
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.2px;
+  
+    color: #066d34;
+  
+    /* Inside auto layout */
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+  }
+  
+  .internal3-div {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 4px 8px;
+    gap: 10px;
+  
+    position: absolute;
+    width: 52px;
+    height: 21px;
+    left: 339px;
+    top: 16px;
+  
+    background: #fdf4d6;
+    border-radius: 4px;
+  }
+  
+  .internal3 {
+    width: 36px;
+    height: 13px;
+  
+    font-family: "DM Sans";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 10px;
+    line-height: 13px;
+    /* identical to box height */
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.2px;
+  
+    color: #9d7600;
+  
+    /* Inside auto layout */
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+  }
+  .interval4-div {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 4px 8px;
+    gap: 10px;
+  
+    position: absolute;
+    width: 52px;
+    height: 21px;
+    left: 378px;
+    top: 625px;
+  
+    /* Loopin/secondary/colour.secondary.pink.two */
+    background: #f4e5f4;
+    border-radius: 4px;
+  }
+  
+  .internal4 {
+    width: 36px;
+    height: 13px;
+  
+    font-family: "DM Sans";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 10px;
+    line-height: 13px;
+    /* identical to box height */
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.2px;
+  
+    /* Loopin/secondary/colour.secondary.pink.one */
+    color: #b74bb5;
+  
+    /* Inside auto layout */
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+  }
+  
+  .join-meeting {
+    position: absolute;
+    width: 73px;
+    height: 7px;
+    left: 617px;
+    top: 523px;
+  
+    /* Loopin/Desktop/Body1 Medium */
+    font-family: "DM Sans";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 16px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: -0.2px;
+  
+    /* Loopin/primary/colour.primary.two */
+    color: #2962ff;
+  }
+  

@@ -1,0 +1,135 @@
+.headerss {
+  /* display: flex; */
+  /* justify-content: space-between; */
+  /* align-items: center; */
+  /* padding: 1rem; */
+  /* height: 5vh; */
+  background: #FFFFFF;
+  box-shadow: 0px 3.49498px 26.2123px rgba(0, 0, 0, 0.1);
+  font-size: 12px;
+  font-family: "Source Sans Pro", sans-serif;
+}
+
+.nav1{
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.overview {
+  position: absolute;
+width: 66px;
+height: 16px;
+left: 26px;
+top: 130px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 16px;
+
+display: flex;
+align-items: center;
+text-align: center;
+flex-direction: column;
+letter-spacing: 0.174749px;
+
+
+color: #2962FF;
+
+
+
+
+
+position: absolute;
+width: 16px;
+height: 17.47px;
+left: 51.5px;
+top: 109.89px;
+}
+.Calender {
+  position: absolute;
+  width: 55.92px;
+  height: 36.45px;
+  left: 31px;
+  top: 180.15px;
+  
+  display: flex;
+  align-items: center;
+  text-align: center;
+  letter-spacing: 0.174749px;
+
+  color: #212121;
+}
+.Notes {
+  position: absolute;
+  width: 55.92px;
+  height: 15.73px;
+  left: 31px;
+  top: 274.25px;
+
+  display: flex;
+  align-items: center;
+  text-align: center;
+  letter-spacing: 0.174749px;
+
+  color: #212121;
+}
+.Tasks {
+  position: absolute;
+  width: 55.92px;
+  height: 15.73px;
+  left: 31px;
+  top: 344.27px;
+
+  display: flex;
+  align-items: center;
+  text-align: center;
+  letter-spacing: 0.174749px;
+
+  color: #212121;
+}
+
+.Invite {
+  position: absolute;
+  width: 72px;
+  height: 16px;
+  left: 23px;
+  top: 815px;
+
+  display: flex;
+  align-items: center;
+  text-align: center;
+  flex-direction: column;
+  letter-spacing: 0.174749px;
+  color: #212121;
+}
+.Chat {
+  position: absolute;
+  width: 72px;
+  height: 16px;
+  left: 23px;
+  top: 886px;
+  flex-direction: column;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  letter-spacing: 0.174749px;
+
+  color: #212121;
+}
+
+.AP {
+  position: absolute;
+  left: 2.43%;
+  right: 94.24%;
+  top: 91.21%;
+  bottom: 4.1%;
+  
+  /* Loopin/neutrals/colour.neutral.seven */
+  background: #F2F2F2;
+  border-radius: 80px;
+}
+
+

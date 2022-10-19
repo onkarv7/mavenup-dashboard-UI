@@ -1,0 +1,258 @@
+.container {
+  position: relative;
+  width: 1440px;
+  height: 1024px;
+  background: #ffffff;
+  border: 1px solid violet;
+}
+
+/* .Middle-container{
+    position: absolute;
+    width: 964px;
+    height: 1024px;
+    left: 236px;
+    top: 0px;
+    border: 1px solid tomato;
+    color: whitesmoke;
+    
+} */
+
+/* Heading  */
+
+.heading {
+  position: absolute;
+  width: 476px;
+  height: 30px;
+  left: 142px;
+  top: 20px;
+
+ 
+  display: flex;
+  align-items: center;
+  letter-spacing: 0.2px;
+
+  color: #212121;
+
+  text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.heading-container {
+  position: absolute;
+  width: 476px;
+  height: 53px;
+  left: 24px;
+  top: 20px;
+
+
+  font-family: "Manrope";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 22px;
+  line-height: 30px;
+  filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+
+}
+.sub-heading {
+  position: absolute;
+  width: 100px;
+  height: 18px;
+  left: 142px;
+  top: 55px;
+
+  font-family: "DM Sans";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 18px;
+  display: flex;
+  align-items: center;
+  letter-spacing: 0.2px;
+
+  color: #b3b3b3;
+}
+
+.text-container {
+  position: absolute;
+  width: 920px;
+  height: 218px;
+  left: 142px;
+  top: 87px;
+
+  background: rgba(231, 233, 255, 0.15);
+  mix-blend-mode: normal;
+  border-radius: 6.79872px;
+}
+
+.text-container1 {
+  position: absolute;
+  width: 249px;
+  height: 22px;
+  left: 32px;
+  top: 10px;
+
+  font-family: "DM Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 160%;
+  display: flex;
+  align-items: center;
+  letter-spacing: 0.1px;
+
+  color: #212121;
+}
+
+.text-container2 {
+  position: absolute;
+  width: 87px;
+  height: 15px;
+  left: 784px;
+  top: 17px;
+
+  font-family: "DM Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 11.8978px;
+  line-height: 15px;
+  display: flex;
+  align-items: center;
+  letter-spacing: 0.169968px;
+
+  color: #818181;
+}
+
+
+.txt-div1{
+  display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 5.94888px 11.8978px;
+gap: 8.5px;
+
+position: absolute;
+width: 40.8px;
+height: 26.9px;
+left: 524px;
+top: 178px;
+background: #FFFFFF;
+border-radius: 3.39936px;
+
+height: 15px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 11.8978px;
+line-height: 15px;
+color: #B3B3B3;
+}
+.txt-div2{display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 5.94888px 11.8978px;
+  gap: 8.5px;
+  
+  position: absolute;
+  width: 123.8px;
+  height: 26.9px;
+  left: 575px;
+  top: 178px;
+  
+  background: #FFFFFF;
+  border-radius: 3.39936px;
+
+  width: 100px;
+  height: 15px;
+  
+  font-family: 'DM Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 11.8978px;
+  line-height: 15px;
+  color: #B3B3B3;
+}
+.txt-div3{
+  display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 5.94888px 11.8978px;
+gap: 8.5px;
+
+position: absolute;
+width: 75.8px;
+height: 26.9px;
+left: 709px;
+top: 178px;
+
+background: #FFFFFF;
+border-radius: 3.39936px;
+
+width: 52px;
+height: 15px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 11.8978px;
+line-height: 15px;
+display: flex;
+align-items: center;
+letter-spacing: 0.169968px;
+
+color: #2962FF;
+
+}
+.txt-div4{
+  display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 5.94888px 11.8978px;
+gap: 8.5px;
+
+position: absolute;
+width: 112.8px;
+height: 26.9px;
+left: 795px;
+top: 178px;
+
+background: #FFFFFF;
+border-radius: 3.39936px;
+width: 89px;
+height: 15px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 11.8978px;
+line-height: 15px;
+color: #B3B3B3;
+}
+
+.search{
+  position: absolute;
+  left: 850px;
+  top: 18px;
+}
+.bell{
+  position: absolute;
+  left: 890px;
+  top: 18px;
+}
+.max{
+  position: absolute;
+  left:895px;
+  top: 18px;
+}
+
+
+.circle{
+  margin-right: 6px;
+  margin-left: 5px;
+}
+
+
+
