@@ -8,7 +8,10 @@
     top: 347px;
   
     /* Loopin/Desktop/H3 Semibold */
-    font-family: "Manrope";
+
+    font-family: 'Source Sans Pro', sans-serif;
+
+    /* font-family: "Manrope"; */
     font-style: normal;
     font-weight: 600;
     font-size: 18px;
@@ -28,7 +31,8 @@
     top: 402px;
   
     /* Loopin/Desktop/Subtitle2 Regular */
-    font-family: "DM Sans";
+    font-family: 'Source Sans Pro', sans-serif;
+
     font-style: normal;
     font-weight: 400;
     font-size: 14px;
@@ -48,7 +52,8 @@
     top: 458px;
   
     /* Loopin/Desktop/Subtitle2 Regular */
-    font-family: "DM Sans";
+    font-family: 'Source Sans Pro', sans-serif;
+
     font-style: normal;
     font-weight: 400;
     font-size: 14px;
@@ -67,7 +72,8 @@
     top: 18px;
   
     /* Loopin/Desktop/Subtitle2 Regular */
-    font-family: "DM Sans";
+    font-family: 'Source Sans Pro', sans-serif;
+
     font-style: normal;
     font-weight: 400;
     font-size: 14px;
@@ -87,7 +93,8 @@
     top: 573px;
   
     /* Loopin/Desktop/Subtitle2 Regular */
-    font-family: "DM Sans";
+    font-family: 'Source Sans Pro', sans-serif;
+
     font-style: normal;
     font-weight: 400;
     font-size: 14px;
@@ -107,7 +114,8 @@
     top: 627px;
   
     /* Loopin/Desktop/Subtitle2 Regular */
-    font-family: "DM Sans";
+    font-family: 'Source Sans Pro', sans-serif;
+
     font-style: normal;
     font-weight: 400;
     font-size: 14px;
@@ -127,7 +135,8 @@
     top: 683px;
   
     /* Loopin/Desktop/Subtitle2 Regular */
-    font-family: "DM Sans";
+    font-family: 'Source Sans Pro', sans-serif;
+
     font-style: normal;
     font-weight: 400;
     font-size: 14px;
@@ -147,7 +156,8 @@
     top: 737px;
   
     /* Loopin/Desktop/Subtitle2 Regular */
-    font-family: "DM Sans";
+    font-family: 'Source Sans Pro', sans-serif;
+
     font-style: normal;
     font-weight: 400;
     font-size: 14px;
@@ -167,7 +177,8 @@
     top: 791px;
   
     /* Loopin/Desktop/Subtitle2 Regular */
-    font-family: "DM Sans";
+    font-family: 'Source Sans Pro', sans-serif;
+
     font-style: normal;
     font-weight: 400;
     font-size: 14px;
@@ -187,7 +198,8 @@
       top: 845px;
       
       /* Loopin/Desktop/Subtitle2 Regular */
-      font-family: 'DM Sans';
+      font-family: 'Source Sans Pro', sans-serif;
+
       font-style: normal;
       font-weight: 400;
       font-size: 14px;
@@ -207,7 +219,8 @@
       top: 897px;
       
       /* Loopin/Desktop/Subtitle2 Regular */
-      font-family: 'DM Sans';
+      font-family: 'Source Sans Pro', sans-serif;
+
       font-style: normal;
       font-weight: 400;
       font-size: 14px;
@@ -229,7 +242,8 @@
     top: 402px;
   
     /* Loopin/Desktop/Subtitle Medium */
-    font-family: "DM Sans";
+    font-family: 'Source Sans Pro', sans-serif;
+
     font-style: normal;
     font-weight: 500;
     font-size: 14px;
@@ -248,7 +262,8 @@
     top: 458px;
   
     /* Loopin/Desktop/Subtitle Medium */
-    font-family: "DM Sans";
+    font-family: 'Source Sans Pro', sans-serif;
+
     font-style: normal;
     font-weight: 500;
     font-size: 14px;
@@ -267,7 +282,8 @@
     top: 17px;
   
     /* Loopin/Desktop/Subtitle Medium */
-    font-family: "DM Sans";
+    font-family: 'Source Sans Pro', sans-serif;
+
     font-style: normal;
     font-weight: 500;
     font-size: 14px;
@@ -287,7 +303,8 @@
     top: 573px;
   
     /* Loopin/Desktop/Subtitle Medium */
-    font-family: "DM Sans";
+    font-family: 'Source Sans Pro', sans-serif;
+
     font-style: normal;
     font-weight: 500;
     font-size: 14px;
@@ -306,7 +323,8 @@
     top: 627px;
   
     /* Loopin/Desktop/Subtitle Medium */
-    font-family: "DM Sans";
+    font-family: 'Source Sans Pro', sans-serif;
+
     font-style: normal;
     font-weight: 500;
     font-size: 14px;
@@ -325,7 +343,8 @@
     top: 683px;
   
     /* Loopin/Desktop/Subtitle Medium */
-    font-family: "DM Sans";
+    font-family: 'Source Sans Pro', sans-serif;
+
     font-style: normal;
     font-weight: 500;
     font-size: 14px;
@@ -344,7 +363,8 @@
     top: 737px;
   
     /* Loopin/Desktop/Subtitle Medium */
-    font-family: "DM Sans";
+    font-family: 'Source Sans Pro', sans-serif;
+
     font-style: normal;
     font-weight: 500;
     font-size: 14px;
@@ -363,7 +383,8 @@
     top: 791px;
   
     /* Loopin/Desktop/Subtitle Medium */
-    font-family: "DM Sans";
+    font-family: 'Source Sans Pro', sans-serif;
+
     font-style: normal;
     font-weight: 500;
     font-size: 14px;
@@ -382,7 +403,8 @@
     top: 845px;
   
     /* Loopin/Desktop/Subtitle Medium */
-    font-family: "DM Sans";
+    font-family: 'Source Sans Pro', sans-serif;
+
     font-style: normal;
     font-weight: 500;
     font-size: 14px;
@@ -401,7 +423,8 @@
     top: 897px;
   
     /* Loopin/Desktop/Subtitle Medium */
-    font-family: "DM Sans";
+    font-family: 'Source Sans Pro', sans-serif;
+
     font-style: normal;
     font-weight: 500;
     font-size: 14px;
@@ -436,7 +459,8 @@
     width: 36px;
     height: 13px;
   
-    font-family: "DM Sans";
+    font-family: 'Source Sans Pro', sans-serif;
+
     font-style: normal;
     font-weight: 400;
     font-size: 10px;
@@ -490,7 +514,8 @@
     width: 36px;
     height: 13px;
   
-    font-family: "DM Sans";
+    font-family: 'Source Sans Pro', sans-serif;
+
     font-style: normal;
     font-weight: 400;
     font-size: 10px;
@@ -531,7 +556,8 @@
     width: 36px;
     height: 13px;
   
-    font-family: "DM Sans";
+    font-family: 'Source Sans Pro', sans-serif;
+
     font-style: normal;
     font-weight: 400;
     font-size: 10px;
@@ -572,7 +598,8 @@
     width: 36px;
     height: 13px;
   
-    font-family: "DM Sans";
+    font-family: 'Source Sans Pro', sans-serif;
+
     font-style: normal;
     font-weight: 400;
     font-size: 10px;
@@ -600,7 +627,8 @@
     top: 523px;
   
     /* Loopin/Desktop/Body1 Medium */
-    font-family: "DM Sans";
+    font-family: 'Source Sans Pro', sans-serif;
+
     font-style: normal;
     font-weight: 500;
     font-size: 12px;

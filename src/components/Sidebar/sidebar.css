@@ -6,8 +6,8 @@
   /* height: 5vh; */
   background: #FFFFFF;
 
-  font-size: 12px;
-  font-family: "Source Sans Pro", sans-serif;
+  /* font-size: 12px;
+  font-family: "Source Sans Pro", sans-serif; */
 
   box-shadow: 0px 3.49498px 26.2123px rgba(0, 0, 0, 0.1);
 }
@@ -15,7 +15,8 @@
 
 
 .font-nav{
-  font-family: 'DM Sans';
+  font-family: 'Source Sans Pro', sans-serif;
+
   font-style: normal;
   font-weight: 500;
   font-size: 12px;
@@ -33,8 +34,16 @@ nav{
   position: absolute;
 width: 66px;
 height: 16px;
-left: 26px;
+left: 31px;
 top: 130px;
+
+font-family: 'Source Sans Pro', sans-serif;
+
+
+font-style: normal;
+font-weight: 700;
+font-size: 13px;
+line-height: 16px;
 
 display: flex;
 align-items: center;
@@ -50,18 +59,14 @@ color: #2962FF;
 
 
 
-position: absolute;
-width: 16px;
-height: 17.47px;
-left: 51.5px;
-top: 109.89px;
+
 }
 .Calender {
   position: absolute;
   width: 55.92px;
   height: 36.45px;
-  left: 31px;
-  top: 180.15px;
+  left: 34px;
+  top: 198px;
   
   display: flex;
   align-items: center;

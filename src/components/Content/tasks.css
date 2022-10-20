@@ -6,7 +6,8 @@
     left: 732px;
     top: 347px;
 
-    font-family: "Manrope";
+    font-family: 'Source Sans Pro', sans-serif;
+
     font-style: normal;
     font-weight: 700;
     font-size: 22px;
@@ -52,7 +53,8 @@
     text-align: left !important;
   }
   .td{
-    font-family: "DM Sans";
+    font-family: 'Source Sans Pro', sans-serif;
+
     font-style: normal;
     font-weight: 400;
     font-size: 12px;
