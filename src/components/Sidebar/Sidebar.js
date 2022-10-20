@@ -1,38 +1,50 @@
-import React from "react";
+import React,{useState} from "react";
 
 import { Box } from "@mui/system";
 import '../../overview.svg'
 import "./sidebar.css";
 import Interview from "../Interview/Interview";
 
+
+
 const Sidebar = () => {
 
-
-
-  const handler =() => {
-    return (
-     
-      < Interview /> 
-    )
-  }
+  const [show, setShow] = useState(false)
+  
   return (
     <Box className="headerss">
-  <div >
+  <nav>
 
-        <div className="overview">
+        <div className="overview font-nav">
     <br />
-       <img src="Overview.svg" alt="" />
+  
+    <a href="javascript:location.reload(true)">
+       <img  src="Overview.svg" alt="" /></a>
         
-        Overview</div>
+        Overview
+        
+       
+        </div>
+
+
 
         <div className="Calender">
-          <img onClick={handler} src="Calender.svg" alt="" />
+
+        {
+
+show ?      <Interview /> : null
+
+}
+
+          <img 
+         onClick={()=>setShow(true)}
+          src="Calender.svg" alt="" />
         </div>
    
-        <div className="Notes"><img src="Notes.svg" alt="" /></div>
-        <div className="Tasks"><img src="Tasks.svg" alt="" /></div>
+        <div className="Notes "><img src="Notes.svg" alt="" /></div>
+        <div className="Tasks "><img src="Tasks.svg" alt="" /></div>
     
-</div>
+</nav>
       <div>
         <div className="Invite">
         <br /> 
@@ -50,6 +62,12 @@ const Sidebar = () => {
         </div>
 
       </div>
+
+
+
+     
+
+
 
     </Box>
   );

@@ -1,6 +1,4 @@
-import { Box } from "@mui/system";
 import React from "react";
-import Interview from "../Interview/Interview";
 import Sidebar from "../Sidebar/Sidebar";
 import "./content.css";
 import "./tasks.css";
@@ -8,6 +6,7 @@ import "./today.css";
 
 
 const Content = () => {
+
   return (
     <div className="container">
       <Sidebar />
@@ -177,8 +176,7 @@ const Content = () => {
       <div className="text8">Weekly Sync</div>
       <div className="text9">Weekly Sync</div>
       <div className="text10">Weekly Sync</div>
-
-      <Interview />
+ 
     </div>
   );
 };
