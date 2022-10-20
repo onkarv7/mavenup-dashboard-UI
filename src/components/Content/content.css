@@ -5,18 +5,6 @@
   background: #ffffff;
   /* border: 1px solid violet; */
 }
-
-/* .Middle-container{
-    position: absolute;
-    width: 964px;
-    height: 1024px;
-    left: 236px;
-    top: 0px;
-    border: 1px solid tomato;
-    color: whitesmoke;
-    
-} */
-
 /* Heading  */
 
 .heading {
@@ -26,8 +14,7 @@
   left: 142px;
   top: 20px;
 
- 
-  display: flex;
+display: flex;
   align-items: center;
   letter-spacing: 0.2px;
 

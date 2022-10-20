@@ -1,3 +1,99 @@
+.interview-box{
+    position: absolute;
+    width: 354px;
+    height: 1024px;
+    left: 1086px;
+    top: 0px;
+    font-family: 'Source Sans Pro', sans-serif;
+    background: #FFFFFF;
+    box-shadow: 0px 4px 30px rgba(0, 0, 0, 0.1);
+    }
+/* Anuj */
+.anuj{
+    display: block;
+    position: absolute;
+    width: 400px;
+    height: 30px;
+    left: 38px;
+    top: 83px;
+
+    font-family: 'Source Sans Pro', sans-serif;
+     font-style: normal;
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 30px;
+     letter-spacing: 0.2px;
+     color: #212121;
+}
+.Roll{
+    margin-right: 6px;
+    margin-left: -14px;
+}
+/* sub heading  */
+.anuj-heading{
+   font-weight: 700;
+    font-size: 10px;
+    line-height: 13px;
+}
+/* insights  */
+.insights{
+    position: absolute;
+    width: 380px;
+    height: 16px;
+    left: 38px;
+    top: 176px;
+
+    font-family: 'Source Sans Pro', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 17px;
+    color: #212121;
+}
+    .more{
+    font-weight: 400;
+     margin-left: 16px;
+   opacity: 0.5;
+    }
+    
+    
+    .meet{
+        position: absolute;
+        width: 38px;
+        height: 38px;
+        left: -15px;
+        top: 30px;
+        
+        background: #E7E9FF;
+        mix-blend-mode: normal;
+        border-radius: 6px;
+        }
+
+    .meet-div{
+    position: absolute;
+    width: 262px;
+    height: 38px;
+    left: 40px;
+    top: 30px;
+    background: #E7E9FF;
+    mix-blend-mode: normal;
+    border-radius: 6px;
+    
+    }
+    .meet-notes{
+     display: flex;
+     justify-content: space-around;
+     align-items: center;
+     padding: 10px;
+font-weight: 500;
+        font-size: 12px;
+        line-height: 20px;
+          color: #2962FF; 
+    }
+    .Insigth-icon{
+        padding:12px;
+      }
+      
 
 .font1{
     font-family: 'Source Sans Pro', sans-serif;
@@ -18,141 +114,8 @@
     font-size: 10px;
     line-height: 13px;
 }
-.interview-box{
-
-    position: absolute;
-    width: 354px;
-    height: 1024px;
-    left: 1086px;
-    top: -165px;
-    
-    font-family: 'Source Sans Pro', sans-serif;
-
-
-    background: #FFFFFF;
-    box-shadow: 0px 4px 30px rgba(0, 0, 0, 0.1);
-    
-}
-
-.anuj{
-    position: absolute;
-    width: 264px;
-    height: 30px;
-    left: 38px;
-    top: 83px;
-
-
-    font-family: 'Source Sans Pro', sans-serif;
-
-  
-    font-style: normal;
-    font-weight: 500;
-    font-size: 22px;
-    line-height: 30px;
-    display: flex;
-    align-items: center;
-    letter-spacing: 0.2px;
-
-    color: #212121;
-}
-
-
 .inner-sub-heading{
     font-weight: 500;
-}
-
-.sub-heading4{
-  
-position: absolute;
-width: 180px;
-height: 13px;
-left: 38px;
-top: 115px;
-
-font-family: 'Source Sans Pro', sans-serif;
-font-style: normal;
-font-weight: 700;
-font-size: 10px;
-line-height: 13px;
-color: #212121;
-
-}
-
-.insights{
-position: absolute;
-width: 53px;
-height: 16px;
-left: 38px;
-top: 176px;
-
-font-family: 'Source Sans Pro', sans-serif;
-font-style: normal;
-font-weight: 700;
-font-size: 12px;
-line-height: 17px;
-
-
-color: #212121;}
-
-.more{
-    position: absolute;
-width: 78px;
-height: 16px;
-left: 107px;
-top: 176px;
-font-family: 'Source Sans Pro', sans-serif;
-font-style: normal;
-font-weight: 400;
-font-size: 12px;
-line-height: 18px;
-
-color: #212121;
-
-opacity: 0.5;
-}
-
-.meet{
-
-position: absolute;
-width: 38px;
-height: 38px;
-left: 22px;
-top: 204px;
-
-background: #E7E9FF;
-mix-blend-mode: normal;
-border-radius: 6px;
-}
-.meet-div{
-    position: absolute;
-width: 262px;
-height: 38px;
-left: 72px;
-top: 204px;
-
-
-background: #E7E9FF;
-mix-blend-mode: normal;
-border-radius: 6px;
-}
-
-.meet-notes{
-    position: absolute;
-    width: 121px;
-    height: 16px;
-    left: 12px;
-    top: 11px;
-    
-    font-family: 'Source Sans Pro', sans-serif;
-    font-style: normal;
-    font-weight: 500;
-    font-size: 12px;
-    line-height: 20px;
- 
-    display: flex;
-    align-items: center;
-    letter-spacing: 0.1px;
-    color: #2962FF; 
 }
 
 /* Past Mettings  */
@@ -306,8 +269,6 @@ border-radius: 4px;
     height: 13px;
     left: 32px;
     top: 12px;
-    
-   
     font-family: 'Source Sans Pro', sans-serif;
     font-style: normal;
     font-weight: 400;
@@ -320,122 +281,6 @@ border-radius: 4px;
     
     color: #212121;
     }
-
-/* Email Refrences  */
-.update1{
-position: absolute;
-width: 312px;
-height: 12px;
-left: 22px;
-top: 721px;
-}
-.update2{
-    position: absolute;
-width: 312px;
-height: 12px;
-left: 22px;
-top: 742px;
-}
-
-.t7{
-    position: absolute;
-    width: 120px;
-    height: 18px;
-    left: 39px;
-    top: 695px;
-    
-    }
- .t8 , .t9{
-     float: left;
-
-     font-family: 'Source Sans Pro', sans-serif;
-        font-style: normal;
-        font-weight: 400;
-        font-size: 12px;
-        line-height: 18px;
-       
-        color: #646464;}
-    
-.d7 , .d8{
-   
-    float: right;
-  
-    letter-spacing: -0.2px;
- color: #B3B3B3;
-    }
-
-
-
-/* Accept / Decline  */
-.accept-btn{
-
-        position: absolute;
-        width: 159px;
-        height: 42px;
-        left: 12px;
-        top: 909px;
-        
-        
-        background: #F9F9F9;
-        border-radius: 4px;
-        }
-        
- .accept , .decline{
-        
-        
-            position: absolute;
-            width: 49px;
-            height: 18px;
-            left: 55px;
-            top: 12px;
-            color: #212121;
-            flex: none;
-            order: 0;
-            flex-grow: 0;
-        }
-        
-.decline-btn{
-        position: absolute;
-        width: 159px;
-        height: 42px;
-        left: 183px;
-        top: 909px;
-        
-        background: #F9F9F9;
-        border-radius: 4px;
-            }
-        
-
-/* Calender  */
-
-.cal{
-    position: absolute;
-    width: 117px;
-    height: 7px;
-    left: 118px;
-    top: 989px;
-    
-    font-family: 'Source Sans Pro', sans-serif;
-    font-style: normal;
-    font-weight: 500;
-    font-size: 14px;
-    line-height: 18px;
-    display: flex;
-    align-items: center;
-    text-align: center;
-    letter-spacing: 0.2px;
-    
-    color: #2962FF;
-}
-.cal-btn{
-    position: absolute;
-    width: 354px;
-    height: 61px;
-    left: 0px;
-    top: 963px;
-    
-    background: #E7E9FF;
-    mix-blend-mode: normal;}
 
 .int-icons1{
     position: absolute;
@@ -451,15 +296,6 @@ top: 742px;
  top:12px ;
  left: 235.7px;
 }
-.Insigth-icon{
-  padding-top: 14px;
-}
-/* .Meet-icons{
-    position: absolute;
-    top: 0px;
-   padding-left: 20px;
-} */
-
 
 .Wireframming{
   position: absolute;
@@ -492,9 +328,92 @@ margin-right: 8px;
     top: 6px;
     right: -230px;
 }
-
-
-.Roll{
-    margin-right: 6px;
-    margin-left: -14px;
+/* Email Refrences  */
+.update1{
+    position: absolute;
+    width: 312px;
+    height: 12px;
+    left: 22px;
+    top: 721px;
+    }
+    .update2{
+        position: absolute;
+    width: 312px;
+    height: 12px;
+    left: 22px;
+    top: 742px;
+    }
+    
+    .t7{
+        position: absolute;
+        width: 120px;
+        height: 18px;
+        left: 39px;
+        top: 695px;
+        
+        }
+     .t8 , .t9{
+         float: left;
+    
+         font-family: 'Source Sans Pro', sans-serif;
+            font-style: normal;
+            font-weight: 400;
+            font-size: 12px;
+            line-height: 18px;
+           
+            color: #646464;}
+        
+    .d7 , .d8{
+       
+        float: right;
+      
+        letter-spacing: -0.2px;
+     color: #B3B3B3;
+        }
+    
+/* Accept / Decline  */
+ .accept-btn{ 
+     width: 159px;
+    height: 42px; 
+    background: #F9F9F9;
+   }
+     .accept , .decline{
+   display: flex;
+   justify-content: center;
+   margin-top: 11px;
+  }
+    .decline-btn{
+    width: 159px;
+    height: 42px; 
+    margin-left: 12px;
+    background: #F9F9F9;
+  }
+         .btns{
+            position: absolute;
+            bottom: 75px;
+            margin-left: 12px;
+             border-radius: 4px;
+            display: flex;
+            justify-content: center;
+            color: #212121;
+            flex: none;
+            order: 0;
+            flex-grow: 0;
+          }
+/* Calender  */
+.cal-btn{
+    position: absolute;
+    width: 354px;
+    height: 61px;
+  
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    bottom: 0px;
+    background: #E7E9FF;
+    mix-blend-mode: normal;
+    font-size: 14px;
+    line-height: 18px;
+    letter-spacing: 0.2px;
+    color: #2962FF;
 }

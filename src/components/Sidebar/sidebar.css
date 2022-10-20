@@ -1,147 +1,38 @@
-.headerss {
-  /* display: flex; */
-  /* justify-content: space-between; */
-  /* align-items: center; */
-  /* padding: 1rem; */
-  /* height: 5vh; */
-  background: #FFFFFF;
+@import url("https://fonts.googleapis.com/css2?family=DM+Sans:wght@500&display=swap");
 
-  /* font-size: 12px;
-  font-family: "Source Sans Pro", sans-serif; */
+.header {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
 
+  box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, 0.2);
+  background: #ffffff;
+
+  width: 118px;
+  height: 1024px;
+  text-align: start;
+
+  background: #ffffff;
   box-shadow: 0px 3.49498px 26.2123px rgba(0, 0, 0, 0.1);
-}
 
-
-
-.font-nav{
-  font-family: 'Source Sans Pro', sans-serif;
-
+  font-family: "DM Sans", sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 12px;
   line-height: 16px;
-}
-
-nav{
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-
-
-.overview {
-  position: absolute;
-width: 66px;
-height: 16px;
-left: 31px;
-top: 130px;
-
-font-family: 'Source Sans Pro', sans-serif;
-
-
-font-style: normal;
-font-weight: 700;
-font-size: 13px;
-line-height: 16px;
-
-display: flex;
-align-items: center;
-text-align: center;
-flex-direction: column;
-letter-spacing: 0.174749px;
-margin-bottom: 4px;
-
-
-color: #2962FF;
-
-
-
-
-
-
-}
-.Calender {
-  position: absolute;
-  width: 55.92px;
-  height: 36.45px;
-  left: 34px;
-  top: 198px;
-  
-  display: flex;
-  align-items: center;
-  text-align: center;
   letter-spacing: 0.174749px;
-
-  color: #212121;
-}
-.Notes {
-  position: absolute;
-  width: 55.92px;
-  height: 15.73px;
-  left: 31px;
-  top: 274.25px;
-
-  display: flex;
-  align-items: center;
-  text-align: center;
-  letter-spacing: 0.174749px;
-
-  color: #212121;
-}
-.Tasks {
-  position: absolute;
-  width: 55.92px;
-  height: 15.73px;
-  left: 31px;
-  top: 344.27px;
-
-  display: flex;
-  align-items: center;
-  text-align: center;
-  letter-spacing: 0.174749px;
-
-  color: #212121;
+  /* transform: matrix(-1, 0, 0, 1, 0, 0); */
 }
 
-.Invite {
-  position: absolute;
-  width: 72px;
-  height: 16px;
-  left: 23px;
-  top: 815px;
-
+.display {
   display: flex;
   align-items: center;
-  text-align: center;
   flex-direction: column;
-  letter-spacing: 0.174749px;
+  margin-bottom: 55px;
+  cursor: pointer;
   color: #212121;
 }
-.Chat {
-  position: absolute;
-  width: 72px;
-  height: 16px;
-  left: 23px;
-  top: 886px;
-  flex-direction: column;
-  display: flex;
-  align-items: center;
-  text-align: center;
-  letter-spacing: 0.174749px;
-
-  color: #212121;
+.up-arrow {
+  margin-bottom: 12px !important;
 }
-
-.AP {
-  position: absolute;
-  left: 2.43%;
-  right: 94.24%;
-  top: 91.21%;
-  bottom: 4.1%;
-  
-  background: #F2F2F2;
-  border-radius: 80px;
-}
-
-

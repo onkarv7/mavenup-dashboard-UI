@@ -9,47 +9,59 @@ const Sidebar = () => {
   const [show, setShow] = useState(false);
 
   return (
-    <Box className="headerss">
+    <div className="header">
       <nav>
-        <div className="overview font-nav">
+        <div className="display">
+         
+          <img src=" Logomark White 3.svg" alt="" />
+
+        </div>
+        <div className="display " style={{ color: "#2962FF" }}>
           <a href="javascript:location.reload(true)">
-            <img src="Ov.svg" alt="" />
+          <img src="over.svg" alt="" />
           </a>
           Overview
         </div>
 
-        <div className="Calender">
+        <div className="display">
           {show ? <Interview /> : null}
-
-          <img onClick={() => setShow(true)} src="Calender.svg" alt="" />
+          <img
+            onClick={() => setShow(true)}
+            src="Calender icon.svg"
+            alt=""
+          />
+          Calender
         </div>
 
-        <div className="Notes ">
-          <img src="Notes.svg" alt="" />
+        <div className="display ">
+          <img src="notes icon.svg" alt="" />
+          Notes
         </div>
-        <div className="Tasks ">
-          <img src="Tasks.svg" alt="" />
+        <div className="display ">
+          <img src="task icon.svg" alt="" />
+          Tasks
         </div>
       </nav>
       <div>
-        <div className="Invite">
+        <div className="display">
           <br />
           <img src="Invite.svg" alt="" />
           Invite
         </div>
-        <div className="Chat">
+        <div className="display">
           <img src="Chat.svg" alt="" />
           Chat
         </div>
-        <div className="">
-          <img src="Arrow.svg" alt="" />
+        <div className="display up-arrow">
+          <img src="up.svg" alt="" />
         </div>
-        <div className="AP">
+        <div>
           <img src="Avatar.svg" alt="" />
         </div>
       </div>
-    </Box>
+    </div>
   );
 };
+
 
 export default Sidebar;

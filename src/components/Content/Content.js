@@ -8,6 +8,7 @@ import "./today.css";
 const Content = () => {
 
   return (
+    
     <div className="container">
       <Sidebar />
 
@@ -129,7 +130,7 @@ const Content = () => {
       {/* shedule */}
 
       <div className="shedule">Today's schedule</div>
-
+<div className="today">
       <div className="time1">10:30 - 11:30</div>
       <div className="internal1-div">
         <div className="internal1">Internal</div>
@@ -166,17 +167,17 @@ const Content = () => {
       <div className="time9">11:15 - 12:00</div>
       <div className="time10">11:15 - 12:00</div>
 
-      <div className="text1">Weekly Sync</div>
-      <div className="text2">Value Proposition Workshop</div>
+      <div className="text1 text">Weekly Sync</div>
+      <div className="text2 text">Value Proposition Workshop</div>
 
-      <div className="text4">Weekly Sync</div>
-      <div className="text5">Weekly Sync</div>
-      <div className="text6">Weekly Sync</div>
-      <div className="text7">Weekly Sync</div>
-      <div className="text8">Weekly Sync</div>
-      <div className="text9">Weekly Sync</div>
-      <div className="text10">Weekly Sync</div>
- 
+      <div className="text4 text">Weekly Sync</div>
+      <div className="text5 text">Weekly Sync</div>
+      <div className="text6 text">Weekly Sync</div>
+      <div className="text7 text">Weekly Sync</div>
+      <div className="text8 text">Weekly Sync</div>
+      <div className="text9 text">Weekly Sync</div>
+      <div className="text10 text">Weekly Sync</div>
+      </div>
     </div>
   );
 };

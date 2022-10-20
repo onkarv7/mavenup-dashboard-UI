@@ -11,6 +11,7 @@ const Interview = () => {
       <div>
         {use ? (
           <Box className="interview-box">
+          {/* icons 1  */}
             <div className="int-icons1">
               <img src="Message.svg" alt="Message" />
               <img className="ic1" src="Edit.svg" alt="Edit" />
@@ -25,40 +26,39 @@ const Interview = () => {
               />
             </div>
 
+{/* Anuj  */}
             <div className="anuj">
               <img className="Roll" src="Roll.svg" alt="" />
               Interview with Anuj Desai
-            </div>
-
-            <div className="sub-heading4">
-              3:30 pm ,{" "}
+            <div className="anuj-heading">
+              3:30 pm ,
               <span className="inner-sub-heading">
                 Thursday, 6th April, 2022
               </span>
-            </div>
-
-            <div>
-              {" "}
-              <div className="insights">Insights</div>
-              <div className="more">More details</div>
-            </div>
-
-            {/* Past Mettings  */}
-
-            <div>
+            </div> </div>
+{/* insights */}
+            <div className='insights'>
+              <span
+              //  className="insights"
+              >Insights</span>
+              <span className="more">More details</span>
+           
+       
               <div className="meet">
                 <img
                   className="Insigth-icon"
                   src="Insights.svg"
                   alt="meet-icon"
                 ></img>
-              </div>
+             </div>
               <div className="meet-div">
-                <div className="meet-notes">Take meeting notes </div>
-                <img className="meet-icons" src="Meet.svg" alt="meet" />
+                <div className="meet-notes">Take meeting notes 
+                <img src="Meet.svg" alt="meet" />
+                </div>
               </div>
-            </div>
-
+              </div> 
+        
+ {/* Past Mettings  */}
             <div>
               <div className="Past-Meetings font1 ">Past Meetings (8)</div>
               <div className="Weekly-Sync1">
@@ -163,7 +163,7 @@ const Interview = () => {
                 <div className="t8">Update : On the account</div>
                 <div className="d7 date-font">6th April, 2022</div>
               </div>
-              <div className="update2">
+              <div className="update2 ">
                 {" "}
                 <div className="t9">Update : On the account</div>
                 <div className="d8 date-font">6th April, 2022</div>
@@ -172,23 +172,21 @@ const Interview = () => {
 
             {/* Accept / Decline  */}
 
-            <div>
-              {" "}
+            <div className="btns">
+             
               <div className="accept-btn">
                 <div className="accept">Accept</div>
               </div>
               <div className="decline-btn">
-                {" "}
+        
                 <div className="decline">Decline</div>
               </div>
             </div>
 
             {/* Calender  */}
-
-            <div>
-              {" "}
-              <div className="cal-btn"></div>
-              <div className="cal">Go To Calender</div>
+            <div className=  "cal-btn">
+            <div className="cal">
+           Go To Calender</div>
             </div>
           </Box>
         ) : null}
