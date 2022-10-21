@@ -1,12 +1,14 @@
 .interview-box{
     position: absolute;
-    width: 354px;
+    min-width: 354px;
     height: 1024px;
     left: 1086px;
     top: 0px;
     font-family: 'Source Sans Pro', sans-serif;
     background: #FFFFFF;
     box-shadow: 0px 4px 30px rgba(0, 0, 0, 0.1);
+
+
     }
 /* Anuj */
 .anuj{
@@ -417,3 +419,5 @@ margin-right: 8px;
     letter-spacing: 0.2px;
     color: #2962FF;
 }
+
+

@@ -5,17 +5,11 @@
   flex-direction: column;
   justify-content: space-between;
   align-items: center;
-
-  box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, 0.2);
-  background: #ffffff;
-
   width: 118px;
   height: 1024px;
   text-align: start;
-
   background: #ffffff;
   box-shadow: 0px 3.49498px 26.2123px rgba(0, 0, 0, 0.1);
-
   font-family: "DM Sans", sans-serif;
   font-style: normal;
   font-weight: 500;
@@ -25,14 +19,24 @@
   /* transform: matrix(-1, 0, 0, 1, 0, 0); */
 }
 
-.display {
+.display1 {
   display: flex;
   align-items: center;
   flex-direction: column;
   margin-bottom: 55px;
   cursor: pointer;
-  color: #212121;
+  color: rgba(33, 33, 33, 1);
 }
+
+div:hover {
+  color: rgba(30, 30, 30, 0.8);
+  /* aspect-ratio: 1.5; */
+}
+
 .up-arrow {
   margin-bottom: 12px !important;
+}
+
+img {
+  cursor: pointer;
 }

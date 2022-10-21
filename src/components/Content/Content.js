@@ -3,7 +3,7 @@ import Sidebar from "../Sidebar/Sidebar";
 import "./content.css";
 import "./tasks.css";
 import "./today.css";
-
+import { TextField } from "@mui/joy";
 
 const Content = () => {
 
@@ -34,7 +34,8 @@ const Content = () => {
           <div className="text-container1">
             
             <img className="circle" src="Circle.svg" alt="" />
-            Start typing or press ‘/’ for commands
+            <TextField  placeholder=" Start typing or press ‘/’ for commands" variant="plain" />
+    
           </div>
           <div className="text-container2">New Note N+Alt</div>
           <img className="max" src="maximize-2 1.svg" alt="" />
