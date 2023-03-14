@@ -4,7 +4,7 @@ import Interview from "../Interview/Interview";
 
 
 const Sidebar = () => {
-  const [show, setShow] = useState(false);
+  const [show, setShow] = useState(true);
 
   return (
     <div className="header">
